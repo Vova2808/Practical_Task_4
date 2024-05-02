@@ -1,7 +1,7 @@
 # Практическое задание 4
 <h3>Есть 2 способа решения практического задания</h3>
 <br>
-<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/f678c084-6e84-42e8-9767-9702fdd71666">
+<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/eb2f9192-89e6-4c9d-8a89-eb497105e534">
 
 <br>
 
@@ -11,34 +11,34 @@
 
 - 1 Описать в txt файле функции MobileNet какая сама лудшая кака худша что такое MobeleNet и тд
 <br>
-<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/be2f6034-9b49-42d5-b7a7-f9970106d308">
+<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/e6b180f2-4fe8-46bc-9d44-d9c6ec90fec8">
 
 <h3>2 Способ решения написать скрипт для каласификации объектов</h3>
 
 ---
 
 - 1 Делаем окно через tkinter
-<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/47f997dc-679c-494e-988c-61a859eb1db2">
+<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/1eb28c70-ca1b-48e8-b61c-6127e80dae74">
 
 ---
 
 - 2 Выбираем фото
-<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/939663e5-b388-40fa-838a-6d362610e2ba">
+<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/32f50a57-817c-4839-a591-3f7515b9a57d">
 
 ---
 
 - 3 Вывод фото
-<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/0e90f13f-5bf5-44b3-a9e5-510f327df35e">
+<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/fcaa8884-c6aa-425d-aed6-19356756a105">
 
 ---
 
 - 4 Результат предсказания
-<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/74aca64c-03de-4a0c-a7ed-9a9d8b3e70d1">
+<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/76e52214-e0e5-41cd-8291-d578f752fb80">
 
 ---
 
 - 5 Проверяем результат
-<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/cc092c38-540e-48a7-8549-34d385fc69aa">
+<img src="https://github.com/Vova2808/Practical_Task_4/assets/96084748/809cb34f-e682-4b85-8a02-18fd76a005c2">
 
 ---
 
